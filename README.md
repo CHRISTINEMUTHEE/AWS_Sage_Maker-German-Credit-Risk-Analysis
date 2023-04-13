@@ -1,4 +1,4 @@
-# AWS_Sage_Maker-German_Credit_Risk_Analysis.
+# AWS_Sage_Maker_German_Credit_Risk_Analysis.
 
 This project describes a step by step approach of performing analysis using AWS sage maker sudio
 ## Problem Statement
